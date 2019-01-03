@@ -8,3 +8,6 @@ I designed this project with the purpose of applying Bootstrap components such a
 
 ![screen shot 2019-01-03 at 2 25 04 pm](https://user-images.githubusercontent.com/22551193/50658031-1bdc1600-0f66-11e9-9ef3-004c43a5882e.png)
 
+![screen shot 2019-01-03 at 2 48 07 pm](https://user-images.githubusercontent.com/22551193/50658225-aa509780-0f66-11e9-9aa8-96aed10a59b6.png)
+
+
