@@ -4,3 +4,24 @@
 .my_bar, .bar_div{
   padding-top: 9px;
 }
+.order{
+  margin: 16px;
+}
+.order-button{
+  background-color: #e3f2fd;
+}
+.slides_container{
+  padding-top: 13px;
+  padding-bottom: 13px;
+}
+.title {
+  font-size: 56px;
+  margin-top: 34px;
+  color: #303952;
+  font-family: Nunito Sans;
+}
+.subtitle{
+  font-weight: extra-light;
+  font-size: 24px;
+  font-family: Nunito Sans;
+}
