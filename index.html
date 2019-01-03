@@ -30,6 +30,54 @@ What it will be seen when the user loads the webpage.-->
   <header role="banner">
     <!--it determines how the site is navigated-->
 
+    <!-- Navigation Bar -->
+    <nav class="my_bar navbar navbar-expand-lg navbar-light" style="background-color: #e3f2fd;">
+      <!-- <a class="navbar-brand" href="#">
+      <strong>CAKE ART</strong>
+    </a>-->
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <ul class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="bar_div navbar-nav">
+          <li>
+            <img src="images/AC.png" width="35" height="35" class="logo d-inline-block align-top" alt="Logo">
+          </li>
+          <li>
+            <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+          </li>
+          <li>
+            <a class="nav-item nav-link" href="#">Cakes</a>
+          </li>
+          <li>
+            <a class="nav-item nav-link" href="#">Breads</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Desserts
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#">Cupcakes</a>
+              <a class="dropdown-item" href="#">Pastries</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Sugar Free Options</a>
+            </div>
+          </li>
+          <li>
+            <a class="nav-item nav-link" href="#">About</a>
+          </li>
+          <li>
+            <a class="nav-item nav-link" href="#">Contact</a>
+          </li>
+      </ul>
+      <form class="form-inline">
+        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+      </form>
+      <!-- <a class="nav-item nav-link disabled" href="#">Disabled</a>-->
+      </div>
+    </nav>
+
   </header>
 
   <main role="main">
@@ -43,5 +91,12 @@ What it will be seen when the user loads the webpage.-->
   </footer>
 
 </body>
+
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS scrips. -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
 
 </html>
