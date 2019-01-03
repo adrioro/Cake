@@ -2,4 +2,9 @@
 Home page project using Bootstrap and CSS styling.
 I designed this project with the purpose of applying Bootstrap components such as the Navbar, Card deck, Carousel, Forms, Dropdowns, etc.
 
+![screen shot 2019-01-03 at 2 26 59 pm](https://user-images.githubusercontent.com/22551193/50658026-17176200-0f66-11e9-862d-64d5473ed621.png)
+
+![screen shot 2019-01-03 at 2 26 06 pm](https://user-images.githubusercontent.com/22551193/50658029-1aaae900-0f66-11e9-9a17-ab4456e74119.png)
+
+![screen shot 2019-01-03 at 2 25 04 pm](https://user-images.githubusercontent.com/22551193/50658031-1bdc1600-0f66-11e9-9ef3-004c43a5882e.png)
 
