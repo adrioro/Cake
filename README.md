@@ -1,5 +1,5 @@
 # Cake 
-Home page project using Bootstrap and CSS styling.
+Home page project using Bootstrap and CSS styling.\
 I designed this project with the purpose of applying Bootstrap components such as the Navbar, Card deck, Carousel, Forms, Dropdowns, etc.
 
 ![screen shot 2019-01-03 at 2 26 59 pm](https://user-images.githubusercontent.com/22551193/50658026-17176200-0f66-11e9-862d-64d5473ed621.png)
